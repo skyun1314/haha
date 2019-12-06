@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/menu_reboot">
+
+        <item
+            android:id="@+id/mokuai"
+            android:icon="@drawable/ic_menu_refresh"
+            android:title="模块管理"/>
+
+        <item
+            android:id="@+id/createxp"
+
+            android:title="创建应用"/>
+
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_menu_refresh"
+            android:title="关于哈哈"/>
+
+    </group>
+
+</menu>

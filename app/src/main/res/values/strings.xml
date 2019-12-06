@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">哈哈</string>
+    <string name="module_launch">开启用户界面</string>
+    <string name="module_download_updates">下载/更新</string>
+    <string name="module_support">支持</string>
+    <string name="module_app_info">应用信息</string>
+    <string name="module_uninstall">卸载</string>
+
+</resources>
